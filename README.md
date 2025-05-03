@@ -1,5 +1,5 @@
 ## Hi Saya Idik Nursidik👋
-![idiknursidik](img/github-header-image(2).png)
+![idiknursidik](img/github-header-image.png)
 <!--
 **idiknursidik/idiknursidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
