@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Office
-🌱 I’m currently learning Laravel Frameword
+🌱 I’m currently learning Laravel Framework
+
+Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel)](https://skillicons.dev)
